@@ -1,0 +1,351 @@
+2
+Ligue 1,200,8
+Coupe 1,150,5
+8
+Real Madrid,1900,95,451
+18
+G,Thibaut Courtois,30,40,80,0.45,1
+D,Marcelo,75,87,45,0.65,12
+D,Raphael Varane,55,85,45,0.5,5
+D,Nacho,50,81,46,0.75,6
+D,Sergio Ramos,75,87,43,0.8,4
+D,Luka Modric,83,70,30,0.53,10
+D,Toni Kroos,72,73,33,0.3,8
+A,Rodrygo,80,45,31,0.7,25
+A,Isco,90,50,30,0.6,22
+A,Marco Asensio,89,45,29,0.5,11
+A,Karim Benzema,92,43,31,0.5,9
+A,Vinicuis Jr,86,41,34,0.67,28
+A,Mariano Diaz,82,32,28,0.56,24
+D,Ferland Mendy,46,60,55,0.65,23
+D,Lucas Vazquez,57,80,50,0.4,17
+D,Casemiro,64,82,31,0.6,14
+G,Andriy Lunin,43,40,60,0.61,13
+A,Federico Valverde,79,50,43,0.5,15
+Fc Barcelone,1900,95,433
+18
+G,Marc-André Ter Stegen,34,45,83,0.46,1
+D,Gerard Piqué,65,88,43,0.7,3
+D,Jordi Alba,65,87,44,0.67,18
+D,Samuel Umtiti,45,86,45,0.62,23
+D,Clément Lenglet,44,85,40,0.43,15
+D,Sergi Roberto,55,65,40,0.54,20
+D,Sergio Busquets,56,71,40,0.6,5
+A,Philippe Coutinho,87,67,34,0.47,14
+A,Miralem Pjanic,83,76,39,0.41,8
+A,Antoine Griezmann,90,70,40,0.5,7
+A,Lionel Messi,95,79,40,0.4,10
+A,Ousmane Dembélé,89,67,34,0.43,11
+A,Martin Braithwaite,78,65,41,0.51,9
+G,Neto,40,60,70,0.56,13
+D,Sergino Gianni Dest,55,71,43,0.61,2
+D,Frenkie De Jong,60,78,45,0.7,21
+A,Ansu Fati,78,61,45,0.53,22
+A,Francisco Trancao,78,68,38,0.43,17
+Fc Liverpool,1400,73,433
+18
+G,Alisson Becker,40,57,82,0.6,1
+D,Trent Alexander-Arnold,67,86,41,0.48,66
+D,Virgil Van Dijk,53,89,46,0.63,4
+D,Andrew Robertson,49,84,43,0.71,26
+D,Alex Oxlade-Chamberlain,69,78,42,0.67,15
+D,Fabihno,69,79,45,0.45,3
+A,James Milner,79,70,44,0.55,7
+A,Georginio Wijnaldum,73,70,42,0.51,5
+A,Roberto Firmino,54,81,34,0.56,9
+A,Sadio Mane,87,58,37,0.51,10
+A,Mohamed Salah,91,56,39,0.45,11
+D,Neco Williams,54,71,39,0.71,76
+D,Naby Keita,75,78,35,0.72,8
+A,Jordan Henderson,76,71,38,0.51,14
+A,Takumi Minamino,78,54,34,0.65,18
+G,Adrian Adrian,45,56,69,0.34,13
+D,Joe Gomez,61,78,41,0.69,12
+A,Divock Origi,78,60,36,0.7,27
+Manchester United,1300,70,433
+18
+G,David de Gea Quintana,43,56,91,0.41,1
+D,Marcos Rojo,56,78,45,0.72,16
+D,Victor Lindelof,54,76,44,0.65,2
+D,Eric Bailly,54,78,45,0.52,3
+D,Phil Jones,50,79,42,0.61,4
+D,Jaun Mata,79,70,45,0,54,8
+A,Paul Pogba,87,70,43,0.58,6
+A,Marcus Rashford,83,69,43,0.51,10
+A,Jesse Lingard,71,72,47,0.61,14
+A,Edinson Cavani,87,61,45,0.52,7
+A,Anthony Martial,84,60,43,0.56,9
+A,Mason Greenwood,75,68,45,0.6,11
+A,Fred,70,67,44,0.62,17
+D,Nemanja Matic,61,75,42,0.62,31
+D,Bruno Fernandes,67,78,43,0.56,18
+D,Happy Maguire,51,68,43,0.73,5
+D,Aaron Wan-Bissaka,51,69,42,0.51,29
+G,Sergi Romero,35,54,87,0.5,26
+Tottenham,800,48,442
+18
+G,Hugo Lloris,51,43,83,0.42,1
+D,Serge Aurier,60,76,43,0.71,24
+D,Toby Alderweireld,55,69,42,0.6,4
+D,Sergio Reguilon,61,75,43,0.61,3
+D,Ben Davies,65,78,45,0.5,33
+D,Giovani Lo Celso,71,77,42,0.45,18
+D,Harry Winks,72,69,42,0.62,8
+A,Gareth Bale,89,73,45,0.54,9
+A,Dele Alli,88,74,43,0.51,20
+A,Heung-Min Son,89,72,41,0.52,7
+A,Harry Kane,90,71,41,0.53,10
+G,Joe Hart,45,40,82,0.5,12
+D,Eric Dier,65,76,41,0.43,15
+D,Moussa Sissoko,67,69,46,0.61,17
+D,Steven Bergwijn,67,71,45,0.52,23
+A,Carlos Vinicius,73,65,41,0.6,45
+A,Lucas Moura,75,62,38,0.56,27
+A,Erik Lamela,76,62,38,0.54,11
+Ac Milan,800,45,442
+18
+G,Gianluigi Donnarumma,43,56,89,0.6,99
+D,Davide Calabria,43,78,43,0.52,2
+D,Diogo Dalot,45,76,42,0.54,5
+D,Alessio Romangoli,47,77,38,0.45,13
+D,Theo Hernandez,48,79,43,0.51,19
+D,Frank Kessié,69,75,41,0.6,79
+D,Sandro Tonali,68,74,38,0.65,8
+A,Ismael Bennacer,70,72,37,0.56,4
+A,Hakan Calhanoglu,79,67,41,0.52,10
+A,Brahim Diaz,78,69,43,0.61,21
+A,Zlatan Ibrahimovic,89,71,47,0.7,11
+G,Ciprian Tatarusanu,42,55,78,0.56,1
+D,Simon Kjaer,41,70,45,0.52,24
+D,Matteo Gabbia,38,69,45,0.6,46
+A,Rafael Leao,78,61,41,0.56,17
+A,Jens Petter Hauge,76,61,41,0.54,15
+A,Rade Krunic,69,71,45,0.67,33
+A,Samu Castillejo,78,67,41,0.51,7
+Olympique de Marseille,400,0,433
+18
+G,Steve Mandanda,36,46,78,0.41,30
+D,Alvaro Gonzalez,42,78,41,0.61,3
+D,Boubacar Kamara,45,76,43,0.67,4
+D,Hiroki Sakai,45,78,45,0.52,2
+D,Duje Caleta-Car,47,76,42,0.56,15
+D,Jordan Amavi,46,74,38,0.65,18
+D,Valentin Rongier,68,65,41,0.65,21
+A,Morgan Sanson,69,64,40,0.56,8
+A,Florian Thauvin,80,65,41,0.56,26
+A,Dimitri Payet,83,67,42,0.67,10
+A,Dario Benedetto,83,65,40,0.51,9
+A,Valere Germain,76,59,38,0.62,28
+G,Yohann Pelé,34,45,70,0.5,16
+D,Kevin Stroorman,65,67,42,0.54,6
+D,Nemanja Radonjic,62,67,42,0.43,7
+A,Pape Alassane Gueye,67,65,43,0.6,22
+A,Marley Aké,63,62,41,0.56,23
+D,Leonardi Balerdi,43,69,39,0.54,5
+Olympique Lyonnais,400,7,433
+18
+G,Anthony Lopes,43,55,78,0.42,1
+D,Mattia De Sciglio,56,71,43,0.52,22
+D,Sianly Diomande,55,70,44,0.6,2
+D,Leo Dubois,66,74,42,0.67,14
+D,Maxwell Cornet,67,72,32,0.51,27
+D,Lucas Paqueta,61,69,36,0.61,12
+D,Maxence Caqueret,60,67,38,0.51,25
+A,Thiago Mendes,63,67,38,0.41,23
+A,Houssem Aouar,68,62,37,0.51,8
+A,Moussa Dembélé,72,65,38,0.62,9
+A,Memphis Depay,74,67,35,0.52,10
+D,Djamel Edddine Benlamri,54,69,41,0.56,3
+D,Marcelo Guedes,62,67,38,0.61,6
+A,Tino Kadewere,69,64,41,0.53,11
+A,Ryan Cherki,65,62,40,0.43,18
+A,Karl Toko Ekambi,67,63,46,0.62,7
+A,Bruno Guimaraes,63,64,39,0.52,39
+G,Julian Pollersbeck,42,51,69,0.61,30
+4
+ABED Karim,0.6,66
+BASTIEN Benoît,0.4,56
+BATTA Florent,0.3,80
+BEN EL HADJ Hakim,0.7,60
+Ligue 2,200,8
+Coupe 2,150,5
+8
+Juventus,1800,90,352
+19
+G,Gianluigi Buffon,40,70,89,0.5,1
+D,M. de Ligt,60,79,60,0.6,4
+D,L. Bonucci,69,85,65,0.8,19
+D,M. Demiral,65,80,59,0.6,28
+D,Alex Sandro,70,79,50,0.4,12
+D,Federico Chiesa,71,75,40,0.3,22
+A,Weston McKennie,75,75,30,0.3,14
+A,Aaron Ramsey,74,89,40,0.5,8
+A,Rodrigo Bentancur,80,76,30,0.6,30
+A,Álvaro Morata,87,69,30,0.5,9
+A,Cristiano Ronaldo,95,79,40,0.4,7
+G,Wojciech Szczęsny,30,60,79,0.4,33
+D,Giorgio Chiellini,70,89,50,0.9,3
+D,Danilo,65,79,54,0.45,13
+D,Hamza Rafia,70,74,50,0.7,29
+A,Dejan Kulusevski,75,80,45,0.4,44
+A,Paulo Dybala,89,70,30,0.5,10
+A,Giacomo Vrioni,85,75,43,0.5,21
+A,Cosimo Marco Da Graca,83,76,34,0.6,34
+PSG,1400,70,433
+19
+G,Navas,30,60,89,0.5,1
+D,Timothée Pembele,70,80,60,0.5,44
+D,Presnel Kimpembe,70,85,37,0.6,3
+D,Thilo Kehrer,75,80,45,0.5,4
+D,Marquinhos,74,75,54,0.6,5
+D,Marco Verratti,78,78,54,0.5,6
+A,Rafinha,80,80,30,0.4,12
+A,Danilo Pereira,80,79,54,0.5,15
+A,Kylian Mbappé,90,70,29,0.3,7
+A,Mauro Icardi,85,74,30,0.5,9
+A,Neymar,91,74,34,0.5,10
+D,Ander Herrera,70,79,50,0.5,21
+D,Julian Draxler,70,75,40,0.7,23
+D,Idrissa Gueye,60,78,30,0.5,27
+A,Ángel Di María,89,78,34,0.5,11
+A,Moise Kean,79,70,30,0.4,18
+D,Leandro Paredes,78,76,45,0.6,8
+G,Sergio Rico,30,58,80,0.6,13
+A,Pablo Sarabia,80,65,43,0.5,19
+Bayern,1600,90,433
+21
+G,M.Neuer,30,60,91,0.4,1
+D,D.Alaba,75,89,57,0.4,27
+D,J.Boateng,70,90,54,0.65,17
+D,JaviMartínez,78,85,43,0.7,8
+D,J.Kimmich,75,86,54,0.5,6
+D,C.Tolisso,79,76,45,0.6,24
+D,MarcRoca,75,75,34,0.4,22
+A,J.Musiala,80,70,45,0.6,42
+A,T.Müller,89,75,45,0.5,25
+A,E.Choupo-Moting,80,67,45,0.5,13
+A,R.Lewandowski,89,68,34,0.6,9
+G,R.Hoffmann,30,65,85,0.45,99
+A,A.Stiller,79,65,45,0.5,38
+A,S.Gnabry,84,60,47,0.5,7
+D,A.Lungwitz,76,80,56,0.6,48
+D,C.Richards,75,86,64,0.6,41
+D,L.Goretzka,67,78,43,0.5,18
+A,DouglasCosta,89,75,54,0.54,11
+D,B.Sarr,69,80,59,0.6,20
+D,A.Davies,67,79,35,0.4,19
+A,K.Coman,85,65,45,0.5,29
+Manchester city,1400,74,451
+18
+G,Ederson,30,70,87,0.5,31
+D,Kyle Walker,69,83,43,0.4,2
+D,John Stones,65,84,45,0.6,5
+D,Fernandinho,64,85,50,0.5,25
+D,Oleksandr Zinchenko,70,85,43,0.6,11
+D,Rodri,80,80,40,0.45,16
+A,Kevin De Bruyne,90,85,43,0.3,17
+A,David Silva,87,70,40,0.5,21
+A,Riyad Mahrez,87,70,30,0.4,26
+A,Sergio Agüero,90,70,43,0.5,10
+A,Raheem Sterling,89,70,41,0.46,7
+A,Bernardo Silva,80,80,42,0.5,20
+G,Scott Carson,40,60,71,0.3,33
+A,Leroy Sané,87,75,30,0.4,19
+D,Benjamin Mendy,70,85,40,0.4,22
+D,Nicolás Otamendi,65,80,43,0.6,30
+A,Gabriel Jesus,85,71,45,0.45,9
+D,Claudio Gomes,66,69,30,0.5,99
+Monaco,700,20,442
+19
+G,Vito Mannone,30,60,75,0.5,30
+D,Ruben Aguilar,68,79,45,0.6,26
+D,Axel Disasi,65,79,30,0.3,20
+D,Benoît Badiashile,65,76,54,0.4,32
+D,Caio Henrique,64,76,50,0.6,12
+D,Sofiane Diop,65,74,43,0.4,37
+D,Youssouf Fofana,70,73,43,0.4,22
+A,Aurélien Tchouaméni,70,74,40,0.4,8
+A,Gelson Martins,73,72,40,0.4,11
+A,Kevin Volland,75,71,43,0.5,31
+A,Wissam Ben Yedder,78,75,30,0.4,9
+D,Alexandr Golovin,65,75,34,0.6,17
+D,Chrislain Matsima,67,78,30,0.5,34
+A,Willem Geubbels,69,60,20,0.5,13
+A,Pietro Pellegri,70,60,30,0.43,19
+D,Guillermo Maripán,65,67,29,0.4,3
+D,Fodé Ballo-Touré,61,67,30,0.46,2
+A,FlorentinoL,74,61,23,0.4,35
+G,Radoslaw Majecki,30,40,60,0.5,21
+Chelsea,900,45,433
+21
+G,Édouard Mendy,40,60,80,0.5,16
+D,Reece James,66,76,46,0.6,24
+D,Thiago Silva,70,85,43,0.6,6
+D,Kurt Zouma,65,80,32,0.5,15
+D,Ben Chilwell,67,78,53,0.6,21
+D,N'Golo Kanté,70,74,33,0.5,7
+A,Mateo Kovačić,71,70,30,0.6,17
+A,Mason Mount,72,70,34,0.6,19
+A,Hakim Ziyech,80,70,20,0.43,22
+A,Tammy Abraham,70,67,23,0.5,9
+A,Timo Werner,75,65,33,0.6,11
+A,Olivier Giroud,80,67,43,0.45,18
+D,Azpilicueta,60,70,20,0.6,28
+D,Antonio Rüdiger,64,75,34,0.6,2
+D,Fikayo Tomori,65,79,30,0.4,14
+D,Emerson,56,76,30,0.6,33
+D,Andreas Christensen,65,75,30,0.6,4
+D,Marcos Alonso,67,78,30,0.4,3
+A,Callum Hudson-Odoi0,74,65,30,0.3,20
+A,Christian Pulisic,73,65,30,0.6,10
+G,Kepa,30,66,80,0.2,1
+Séville FC,700,20,433
+20
+G,Tomáš Vaclík,30,60,70,0.6,1
+D,Jesús Navas,60,70,30,0.5,16
+D,Jules Koundé,64,71,30,0.5,12
+D,Diego Carlos,63,74,30,0.3,20
+D,Marcos Acuña,64,72,30,0.3,19
+D,Fernando,69,70,30,0.6,25
+D,Joan Jordán,65,69,30,0.4,8
+A,Ivan Rakitić,80,79,30,0.5,10
+A,Lucas Ocampos,73,63,30,0.4,5
+A,Luuk de Jong,79,69,30,0.5,9
+A,Munir,75,65,30,0.5,11
+D,Nemanja Gudelj,65,69,30,0.3,6
+G,Yassine Bounou,30,59,70,0.4,13
+A,Carlos Fernández,83,75,30,0.7,24
+D,Joris Gnagnon,64,74,30,0.5,2
+A,Aleix Vidal,70,70,30,0.4,17
+A,Franco Vázquez,69,69,30,0.4,22
+A,Oussama Idrissi,73,60,30,0.4,23
+A,Youssef En-Nesyri,73,61,30,0.5,15
+A,Óliver Torres,69,59,30,0.3,21
+Porto FC,300,0,451
+21
+G,Agustín Marchesín,40,50,70,0.5,1
+D,Wilson Manafá,60,67,30,0.4,18
+D,Chancel Mbemba,63,69,30,0.3,19
+D,Pepe,64,85,30,0.9,3
+D,Zaidu Sanusi,63,67,30,0.3,12
+D,Jesús Corona,67,69,30,0.6,17
+D,Mateus Uribe,60,65,30,0.4,8
+D,Sérgio Oliveira,59,70,30,0.4,27
+A,Luis Díaz,69,66,30,0.3,7
+A,Otávio,71,64,30,0.3,25
+A,Moussa Marega,72,61,30,0.3,11
+A,Toni Martínez,69,50,30,0.4,29
+D,Malang SarrL,55,65,30,0.6,32
+D,Nanu,56,65,30,0.4,31
+A,Marko GrujićL,70,60,30,0.3,16
+A,Evanilson,69,61,30,0.4,30
+D,Diogo Leite,60,69,30,0.3,4
+D,Fábio Vieira,61,71,30,0.2,50
+D,Felipe AndersonL,62,67,30,0.5,28
+A,Mehdi Taremi,70,60,30,0.3,9
+G,Cláudio Ramos,30,66,70,0.5,14
+4
+BIEIRI Alain,0.5,50
+BRISARD Jérôme,0.6,47
+BUQUET Ruddy,0.3,70
+DELERUE Amaury,0.8,58
