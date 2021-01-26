@@ -7,7 +7,7 @@ Contribution : Hamid Kolli <https://github.com/HamidKolli>
 
 Jeu de manager : Le jeu consiste a dériger un club durant une ou plusieurs saisons et de participer à des multipes competitions tout en progressant durant le jeu|
 
-- Les classes :
+## Les classes :
 
 | Description des classes et de leur rôle dans le programme |
 |----------------------------------------------------------|
@@ -33,7 +33,7 @@ Jeu de manager : Le jeu consiste a dériger un club durant une ou plusieurs sais
 | <b style="color:#d93e1d;">Humeur</b> : Une enumeration qui represente l'humeur d'une personne (Faible, Normal, Eleve) |
 | <b style="color:#d93e1d;">Clavier</b> : Classe fournie par le prof, auquelle on a ajouter quelques methodes, elle gere les entrees du jeu |
 
-- L'uml
+## L'uml
 
 | Schéma UML des classes vision fournisseur (lien plantuml)|
 |----------------------------------------------------------|
@@ -44,16 +44,15 @@ Jeu de manager : Le jeu consiste a dériger un club durant une ou plusieurs sais
 
 - **NB :<a href="http://www.plantuml.com/plantuml/png/VPDBRzim3CVl-XH2xptiwbEBj7iCwr2WnUwCmpG4zF18QWZswHVBDkkviGzn9Ft-ueF--quKM4iC3lQY3AtwDe28VqQMd19wYbt0Y4d5lq3vWs_01zW7TAQu-NJZy-sj_reY5cxygVul0txF1GjxF2kcmoo-6_0zxqaPF_09gyBl0abDCCGRyGCUCOd5N-8lm0V2j8GEKubZsSvHKkGZjFX_dtRf1PaWqD_Q_1ZuS-O8IZcjZyaaTKP3viQ_3HMjq42YQ2tBbiewtrGzKI0ivot9Asa9G6ozxKBPhxTLwOSWmqRUgILi_75QRbDBWrR9AqEI8x9E1q-WxMcrDkygDr-Ercey38i5xgjfV7jvFkH8BOLrmUDPaGaBMsMvyFgCUbeZr7ZZYEfQtFBpsENOeTAsbsOYgwvFqdYzF9yPMpnWqhdkwWHaNd_AP1wVNtGJ_9XfT_b1KbFOb8OM-wKuyz49OaSv9T1hUToSMngp4oVpmMYrdpdT5yrCWe_d5hi-Y0Msa-K7Uhdr2m8TjkxufT--nIwBq3vitRBgiAo_kHxE_UG7G-rEcOIannNDPd4Hl6zCCRsnnkkmk4BQN3givvQkokK7Ih-PaFd2wBWNTuVfK6Bu1m00"> Voici le diagramme de l'hierarchie complete</a>**
 
-- La Présentation :
+## Présentation du projet 
 
-> Présentation du projet 
+Ce projet consiste en un jeu de gestion d'un club de football, l'utilisateur poura choisir son club selon son experience, choisir ses joueurs et mettre en place des strategies et des formations pour gagner des matchs, des championnats et tournois nationaux et internationaux, tout en progressant au fil du jeu. Les compétences des joueurs sont affectées à chaque participation ce qui affecte les resultats des rencontres, a chaque fin de competition un club vainqueur sera elu, il obtiendra une recompense, ainsi qu'un meilleur buteur, joueur et gardien seront choisis selon leurs parcours respectifs (nombre de buts, nombre de points ...), a chaque fin de saison l'utilisateur sera recomposé selon son classement dans le championnat ou il participe, et les tournois gagnés. L'utilisateur poura acheter et vendre des joueur pendant la periode du mercato.
 
-    Ce projet consiste en un jeu de gestion d'un club de football, l'utilisateur poura choisir son club selon son experience, choisir ses joueurs et mettre en place des strategies et des formations pour gagner des matchs, des championnats et tournois nationaux et internationaux, tout en progressant au fil du jeu. Les compétences des joueurs sont affectées à chaque participation ce qui affecte les resultats des rencontres, a chaque fin de competition un club vainqueur sera elu, il obtiendra une recompense, ainsi qu'un meilleur buteur, joueur et gardien seront choisis selon leurs parcours respectifs (nombre de buts, nombre de points ...), a chaque fin de saison l'utilisateur sera recomposé selon son classement dans le championnat ou il participe, et les tournois gagnés. L'utilisateur poura acheter et vendre des joueur pendant la periode du mercato.
+Le jeu se base sur un systeme de sauvegarde et de restoration, a chaque evenement le jeu sera sauvgarder automatiquement.
 
-    Le jeu se base sur un systeme de sauvegarde et de restoration, a chaque evenement le jeu sera sauvgarder automatiquement.
+Le jeu comporte deux championnats de huits clubs et quatre arbitres, deux coupe nationales et deux tournois internationaux (ligue des champion et europa ligue), chaque championnat a une coupe organisée entre ses clubs, tandis que les tournois internationaux sont organisés aléatoirement pour la première saison et pour les autres saisons les clubs qui y participent seront selectionnés en fonction de leurs classement dans leur championnat respectif, les quatre premièrs club de chaque championnats joueront a la ligue des champion et les quatre derniers a l'europa ligue. l'utilisateur peut voir que les competitions ou il participe.  
 
-    Le jeu comporte deux championnats de huits clubs et quatre arbitres, deux coupe nationales et deux tournois internationaux (ligue des champion et europa ligue), chaque championnat a une coupe organisée entre ses clubs, tandis que les tournois internationaux sont organisés aléatoirement pour la première saison et pour les autres saisons les clubs qui y participent seront selectionnés en fonction de leurs classement dans leur championnat respectif, les quatre premièrs club de chaque championnats joueront a la ligue des champion et les quatre derniers a l'europa ligue. l'utilisateur peut voir que les competitions ou il participe.  
-
-    La simulation du jeu :
-
-    Au debut du jeu, l'utilisateur choisi son pseudo et un club,il commence sa première journée du championnat ou son club participe, avant le match l'utilisateur peut choisir ca formation et ses joueurs, il peut voir le classement les matchs a venir et aussi les resultats des matchs precedents, et cela jusqu'a la validation et le lancement du match qui apres sa terminaisant les details du match seront affichés, l'utilisateur ne poura pas lancer le match si l'un de ses joueurs titulaires est blessé ou suspendu durant la competition, il est oblige de les remplacer, si la plupart de ses joueur ne peuvent participer au prochain match, le dernier sera declarer forfait (3-0 pour l'equipe adverse). Y'aura une alternance dans les competitions dans notre cas l'utilisateur joue deux match de championnat un match de coupe,deux match de championnat, et un autre du tournoi, et sela jusqu'a la fin de la saison. Le mercato s'ouvre chaque saison a une periode precise (entre un tiers et deux tiers de la saison), dans lequelle l'utilisateur peut acheter ou vendre ses joueurs a des clubs. A la fin de competition on affiche le gagnant et les les titres individuels. A chaque fin de saison le joueur a la possibilité de changer le club.
+## TODO
+- Ameliorer l'AI du jeu
+- Ajouter plus de clubs/championnats
+- Integerer le multi-joueurs
