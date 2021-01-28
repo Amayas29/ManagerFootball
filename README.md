@@ -5,7 +5,7 @@
 
 Contribution : Hamid Kolli <https://github.com/HamidKolli>
 
-Jeu de manager : Le jeu consiste a dériger un club durant une ou plusieurs saisons et de participer à des multipes competitions tout en progressant durant le jeu|
+Jeu de manager : Le jeu consiste a dériger un club durant une ou plusieurs saisons et de participer à des multipes competitions tout en progressant durant le jeu
 
 ## Les classes :
 
