@@ -44,12 +44,12 @@ public class Jeu implements outils.Sauvegardable {
 	 * Le fichier init qui contient les championnats et leurs clubs (il sera charge
 	 * qu'au debut du jeu)
 	 */
-	public static final String FILE_NAME_DATA_BASE = "jeu.db";
+	public static final String FILE_NAME_DATA_BASE = "ressources/jeu.db";
 
 	/**
 	 * Le fichier de sauvegarde qui sera mis à jour au fur et à mesure de la partie
 	 */
-	public static final String FILE_SAVE = "jeu.ser";
+	public static final String FILE_SAVE = "ressources/jeu.ser";
 
 	/**
 	 * Pour altérner entre les differentes compétitions (Il est static pour le
