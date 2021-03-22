@@ -53,6 +53,6 @@ Le jeu se base sur un systeme de sauvegarde et de restoration, a chaque evenemen
 Le jeu comporte deux championnats de huits clubs et quatre arbitres, deux coupe nationales et deux tournois internationaux (ligue des champion et europa ligue), chaque championnat a une coupe organisée entre ses clubs, tandis que les tournois internationaux sont organisés aléatoirement pour la première saison et pour les autres saisons les clubs qui y participent seront selectionnés en fonction de leurs classement dans leur championnat respectif, les quatre premièrs club de chaque championnats joueront a la ligue des champion et les quatre derniers a l'europa ligue. l'utilisateur peut voir que les competitions ou il participe.  
 
 ## TODO
-- Ameliorer l'AI du jeu
-- Ajouter plus de clubs/championnats
-- Integerer le multi-joueurs
+[ ] Ameliorer l'AI du jeu
+[ ] Ajouter plus de clubs/championnats
+[ ] Integerer le multi-joueurs
